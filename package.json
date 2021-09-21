@@ -1,0 +1,20 @@
+{
+  "name": "cmsc100ay21s1-backend",
+  "version": "0.0.1",
+  "description": "cmsc100ay21s1-backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hualian00/cmsc100ay21s1-backend.git"
+  },
+  "author": "Ley Evora",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hualian00/cmsc100ay21s1-backend/issues"
+  },
+  "homepage": "https://github.com/hualian00/cmsc100ay21s1-backend#readme"
+}
