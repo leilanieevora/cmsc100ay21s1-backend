@@ -1,14 +1,14 @@
 /**
  * This is the home function
- * 
+ *
  * @param {*} request
  * @param {*} reply
- * @returns {*} 
- * 
+ * @returns {*}
+ *
  */
 
-export async function home (request, reply){
+export async function home (request, reply) {
   return {
     hello: 'world from home'
-  }
-};
+  };
+}

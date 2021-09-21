@@ -19,9 +19,13 @@
   },
   "homepage": "https://github.com/hualian00/cmsc100ay21s1-backend#readme",
   "dependencies": {
-    "fastify": "^3.21.3"
+    "ajv": "^8.6.3",
+    "fastify": "^3.21.3",
+    "fastify-openapi-glue": "^2.6.5",
+    "fastify-swagger": "^4.12.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "semistandard": "^16.0.1"
   }
 }
