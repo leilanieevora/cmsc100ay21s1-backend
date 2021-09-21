@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hualian00/cmsc100ay21s1-backend/issues"
   },
-  "homepage": "https://github.com/hualian00/cmsc100ay21s1-backend#readme"
+  "homepage": "https://github.com/hualian00/cmsc100ay21s1-backend#readme",
+  "dependencies": {
+    "fastify": "^3.21.3"
+  }
 }
